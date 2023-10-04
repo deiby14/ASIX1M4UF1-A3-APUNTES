@@ -27,6 +27,7 @@ Este texto esta en **_negrita y cursiva_**
     <head> 
     <body>
  ```
+ 
     |Primera Col.|Segunda Col.| 3 col.|
     |--------------:|:------------:|---------:|
     |Col 2 es |Centrada|20$|
