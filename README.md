@@ -26,8 +26,9 @@ Este texto esta en **_negrita y cursiva_**
     <head>
     <head> 
     <body>
-    ```
-    [Esto es un enlace](http://joan23.fje.edu "enlace a la web del cole") 
-
-
-![Esto es una imagen de iphone ] (https://github.com/deiby14/ASIX1M4UF1-A3-APUNTES/blob/main/descarga.jpg ) "titulo opcional de la imagen" 
+    |Primera Col.|Segunda Col| 3col|
+    |--------------:|:------------:|---------:|
+    |Col 2 es |Centrada|20$|
+    |Col 3 es | Derecha | 5$|
+    |Estilo cebra| Gris|Blanco|
+    |Clase| ASIX1|M4|
