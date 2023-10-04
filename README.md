@@ -27,10 +27,12 @@ Este texto esta en **_negrita y cursiva_**
     <head> 
     <body>
  ```
- 
-    |Primera Col.|Segunda Col.| 3 col.|
-    |--------------:|:------------:|---------:|
-    |Col 2 es |Centrada|20$|
-    |Col 3 es | Derecha | 5$|
-    |Estilo cebra| Gris|Blanco|
-    |Clase| ASIX1|M4|
+
+
+
+|Primera Col.|Segunda Col.| 3 col.|
+|--------------:|:------------:|---------:|
+|Col 2 es |Centrada|20$|
+|Col 3 es | Derecha | 5$|
+|Estilo cebra| Gris|Blanco|
+|Clase| ASIX1|M4|
